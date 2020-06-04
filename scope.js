@@ -1,0 +1,1 @@
+// scope // block scope // global scope// 
